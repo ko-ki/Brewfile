@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask airparrot
 
 ## rcmdnk/file
 tap rcmdnk/file
