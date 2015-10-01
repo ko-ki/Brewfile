@@ -4,7 +4,22 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask adobe-creative-cloud
 cask airparrot
+cask alfred
+cask appcleaner
+cask bartender
+cask bettertouchtool
+cask codekit
+cask dropbox
+cask google-chrome
+cask karabiner
+cask keepingyouawake
+cask skala-preview
+cask skype
+cask sublime-text
+cask teamviewer
+cask virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
